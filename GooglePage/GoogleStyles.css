@@ -1,0 +1,158 @@
+#gmail{
+    position: absolute;
+    top:20px;
+    right:200px;
+    color:black;
+    font-size:15px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+#gmail:hover{
+    text-decoration: underline;
+}
+#images{
+    position: absolute;
+    top:20px;
+    right:140px;
+    color:black;
+    font-size:15px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+#images:hover{
+    text-decoration: underline;
+}
+
+#app{
+    position: absolute;
+    top:15px;
+    
+    right:100px;
+    height: 25px;
+    width: 25px;
+}
+
+#signin{
+    position: absolute;
+    top:13px;
+    
+    right:15px;
+    background-color: #4285f4;
+    height: 30px;
+    width:70px;
+    border: 1px solid blue;
+    font-weight: bold;
+    color:white;
+    font-size: 12px;
+}
+
+
+#logo{
+    height: 100px;
+    width:280px;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+
+#search{
+    margin-top: 26px;
+    position: absolute;
+    width:560px;
+    height: 33px;
+    margin-left: 360px;
+    margin-bottom: 10px;
+    
+}
+
+#microphone{
+    
+   position: absolute;
+    width:40px;
+    height: 35px;
+    margin-left: 883px;
+    margin-top:28px;       
+}
+
+.sbutton{
+    
+    margin-top: 445px;
+    
+    background-color: whitesmoke;
+    border: none;
+    color: #757575;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 100px;
+    margin-left: 510px;
+    cursor: pointer;
+}
+
+.button{
+    margin-top: 445px;
+    
+    background-color: whitesmoke;
+    border: none;
+    color: #757575;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 100px;
+    
+    cursor: pointer;
+}
+.button:hover{
+    border: 1px solid #757575;
+    color:black;
+}
+.sbutton:hover{
+    border: 1px solid #757575;
+    color:black;
+}
+#border{
+    display: block;
+ position: absolute;
+    bottom: 5px;
+    left:0px;
+
+    height:30px;
+ width:100%;
+    background: #ffffff;
+    border-top: 2px solid #cccccc;
+}
+#leftbottom{
+    position: absolute;
+    bottom: 10px;
+    left:20px;
+    
+}
+
+#rightbottom{
+    position: absolute;
+    bottom: 10px;
+    right:20px;
+}
+
+div>a{
+    padding-right: 20px;
+    text-decoration: none;
+    color: #666666;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+div>a:hover{
+     text-decoration: underline;
+    
+}
+
+
+
